@@ -1,1 +1,4 @@
-1.Pandas
+1. pandas
+2. pymysql (Adapter)
+3. sqlalchemy 
+4. psycopg2
